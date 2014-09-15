@@ -31,13 +31,13 @@
             <span lang="zh-tw">檢查可用性</span>
             <span lang="en-us">Check Availability</span>
         </div>
-        <div class="note">
+        <!--div class="note">
             <span lang="zh-tw">※ 在以下的日期我們已排滿所有訂製訂單</span>
             <span lang="en-us">We are booked for custom orders on the following days:</span>
-        </div>
+        </div-->
         <div>
-            <iframe src="https://www.google.com/calendar/embed?title=Check%20Availability&amp;showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=300&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=i7ia1vs67ld4ra7suflpe8s0kg%40group.calendar.google.com&amp;color=%23B1365F&amp;ctz=Asia%2FTaipei"
-            frameborder="0" scrolling="yes" class="agenda"></iframe>
+            <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=i7ia1vs67ld4ra7suflpe8s0kg%40group.calendar.google.com&amp;color=%23711616&amp;ctz=Asia%2FTaipei"
+            class="agenda" frameborder="0" scrolling="no"></iframe>
         </div>
         <div class="continue">
             <a href="http://goo.gl/0KzZRg" target="_blank"><span lang="zh-tw">前往</span>
