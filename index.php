@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Template</title>
+    <title>Custom Cakes | Yeh! Cake</title>
     <?php include "stubs/head.php";?>
 </head>
 
@@ -79,7 +79,7 @@
                                 Easy
                             </div>
                             <div class="description">
-                                Just because you can doesn’t mean you should. Life is busy enough. Let us make your cake so that you can focus on other important tasks.</div>
+                                Just because you can doesn’t mean you should. Life is busy enough. Let us make your cake for you so that you can focus on other important things.</div>
                         </div>
                     </div>
                     <div class="ui-block-b">
