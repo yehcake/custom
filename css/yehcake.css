@@ -1,40 +1,104 @@
-a {
-    text-decoration: none;
-}
-.agenda {
-    border-width: 0px;
-    width: 100%;
-    height: 300px; 
-}
-.continue {
-    font-size: 1.6em;
-    margin-top: .5em;
-    text-align: center;
-}
-.footer {
-    color: #8b8b8b;
-    font-size: .7em;
-    margin-top: 4em;
-    text-align: center;
-}
-.header1 {
-    font-size: 1.3em;
-    font-weight: bold;
-    margin-bottom: .5em;
-}
-.note {
-    font-size: .9em;
-    margin-bottom: .5em;    
-}
-.outerContainer {
-    max-width: 620px;
-    min-width: 300px;
-    margin-left: auto;
-    margin-right: auto;
-}
-[lang="en-us"] {
-    font-family: Arial, Helvetica, sans-serif;
-}
-[lang="zh-tw"] {
-    font-family: "Microsoft YaHei New", "Microsoft Yahei", "微软雅黑", "宋体", SimSun, STXihei, "华文细黑", sans-serif;
-}
+        a {
+            text-decoration: none;
+        }
+        .content-container {
+            width: 80%;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+        }
+        .benefit {
+            color: #585858;
+            font-size: 2em;
+            margin-bottom: 0.5em;
+        }
+        .benefit-container {
+            width: 80%;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 3em;
+        }
+        .benefit-image {
+            width: 200px;
+            height: 200px;
+        }
+        .copyright {
+            color: #585858;
+            font-size: 0.5em;
+            margin-top: 2em;
+        }
+        .description {
+            color: #585858;
+            font-size: 1em;
+        }
+        .headline {
+            color: #585858;
+            font-size: 5em;
+        }
+        .language {
+            color: #585858;
+            font-size: 0.8em;
+            text-align: right;
+            margin-top: 1em;
+        }
+        .no-top-padding {
+            padding-top: 0;
+        }
+        @media all and (max-width: 58em) {
+            .content-container {
+                width: 100%;
+            }
+        }
+        @media all and (max-width: 48em) {
+            .yc-responsive .ui-block-a,
+            .yc-responsive .ui-block-b,
+            .yc-responsive .ui-block-c,
+            .yc-responsive .ui-block-d,
+            .yc-responsive .ui-block-e {
+                width: 100%;
+                float: none;
+            }
+        }
+        .agenda {
+            border-width: 0px;
+            width: 100%;
+            height: 300px;
+        }
+        .continue {
+            font-size: 1.6em;
+            margin-top: .5em;
+            text-align: center;
+        }
+        .footer {
+            color: #8b8b8b;
+            font-size: .7em;
+            margin-top: 4em;
+            text-align: center;
+        }
+        .header1 {
+            font-size: 1.3em;
+            font-weight: bold;
+            margin-bottom: .5em;
+        }
+        .note {
+            font-size: .9em;
+            margin-bottom: .5em;
+        }
+        .outerContainer {
+            max-width: 620px;
+            min-width: 300px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .yc-footer {
+            margin-top: 5em;
+        }
+        .yc-footer a {
+            font-weight: normal;
+        }
+        [lang="en-us"] {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        [lang="zh-tw"] {
+            font-family: "Microsoft YaHei New", "Microsoft Yahei", "微软雅黑", "宋体", SimSun, STXihei, "华文细黑", sans-serif;
+        }
