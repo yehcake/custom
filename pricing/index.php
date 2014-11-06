@@ -62,7 +62,7 @@
                         </div>
                     </div>
                     <div class="highlight-grey">
-                        ※ Shaped cakes start at NT$6,000 regardless.
+                        ※ Shaped cakes start at NT$6,000.
                     </div>
                 </div>
                 <div class="ui-grid-a ui-responsive">
