@@ -5,7 +5,7 @@
                     </li>
                     <li><a href="http://catalog.yehcake.com/" rel="external">Gallery</a>
                     </li>
-                    <li><a href="#">Pricing (coming soon)</a>
+                    <li><a href="/pricing/">Pricing</a>
                     </li>
                     <li><a href="#">FAQ (coming soon)</a>
                     </li>
