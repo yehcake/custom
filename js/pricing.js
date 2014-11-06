@@ -15,7 +15,7 @@ function formatAsDollar(num) {
 }
 
 function getLowerBound(num) {
-    var result = round(num * 0.6);
+    var result = round(num * 0.8);
     if (result > getMinPricing()) {
         return result;
     } else {
