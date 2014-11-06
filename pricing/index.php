@@ -64,10 +64,10 @@
                 </div>
                 <div class="ui-grid-a ui-responsive">
                     <div class="ui-block-a">
-                        <a data-pin-do="embedBoard" href="http://www.pinterest.com/yehcake/difficulty-1-4/" data-pin-scale-width="60" data-pin-scale-height="120" data-pin-board-width="280">Follow Yeh! Cake's board Easier Cakes on Pinterest.</a>
+                        <a data-pin-do="embedBoard" href="http://www.pinterest.com/yehcake/difficulty-1-4/" data-pin-scale-width="60" data-pin-scale-height="120" data-pin-board-width="280">Example of Less Difficult Cakes</a>
                     </div>
                     <div class="ui-block-b">
-                        <a data-pin-do="embedBoard" href="http://www.pinterest.com/yehcake/difficulty-5%2B/" data-pin-scale-width="60" data-pin-scale-height="120" data-pin-board-width="280">Follow Yeh! Cake's board Easier Cakes on Pinterest.</a>
+                        <a data-pin-do="embedBoard" href="http://www.pinterest.com/yehcake/difficulty-5%2B/" data-pin-scale-width="60" data-pin-scale-height="120" data-pin-board-width="280">Example of More Difficult Cakes</a>
                     </div>
                 </div>
                 <!-- /grid-a -->
