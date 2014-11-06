@@ -80,6 +80,9 @@
             font-weight: bold;
             margin-bottom: .5em;
         }
+        .highlight-grey {
+            color: #a9a9a9;
+        }
         .note {
             font-size: .9em;
             margin-bottom: .5em;
