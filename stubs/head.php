@@ -7,7 +7,7 @@
     <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
     <script src="//code.jquery.com/mobile/1.4.4/jquery.mobile-1.4.4.min.js"></script>
     <link rel="stylesheet" href="/css/yehcake.css" />
-    <script src="../js/pricing.js"></script>
+    <script src="/js/pricing.js"></script>
     <script>
         function updateEstimate(size, difficulty, toppers) {
             if (isNaN(size) || isNaN(difficulty) || isNaN(toppers) || (size === "") || (difficulty === "") || (toppers === "")) {
