@@ -4,25 +4,6 @@
 <head>
     <title>Illustrative Cake Pricing | Yeh! Cake</title>
     <?php include "../stubs/head.php";?>
-    <script src="../js/pricing.js"></script>
-    <script>
-        function updateEstimate(size, difficulty, toppers) {
-            if (isNaN(size) || isNaN(difficulty) || isNaN(toppers) || (size === "") || (difficulty === "") || (toppers === "")) {
-                $("#range").text("UNKNOWN");
-            }
-            else {
-                $("#range").text(getEstimate(size, difficulty, toppers));
-            }
-        }
-        $(document).on("pagecreate", "#pricingPage", function(event) {
-            $(".slider").on("slidestop", function(event, ui) {
-                var size = $("#size").val();
-                var difficulty = $("#difficulty").val();
-                var toppers = $("#toppers").val();
-                updateEstimate(size, difficulty, toppers);
-            });
-        });
-    </script>
 </head>
 
 <body>
