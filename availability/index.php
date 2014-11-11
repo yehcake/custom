@@ -2,7 +2,8 @@
 <html>
 
 <head>
-    <title>檢查可用性 Check Availability | Yeh! Cake</title>
+    <title>
+        檢查可用性 Check Availability |
     <?php include "../stubs/head.php";?>
 </head>
 

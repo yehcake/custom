@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Custom Cakes | Yeh! Cake</title>
+    <title>
     <?php include "stubs/head.php";?>
 </head>
 
