@@ -20,7 +20,7 @@
                     <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=i7ia1vs67ld4ra7suflpe8s0kg%40group.calendar.google.com&amp;color=%23711616&amp;ctz=Asia%2FTaipei"
                     class="agenda" frameborder="0" scrolling="no"></iframe>
                 </div>
-                <br><a href="http://goo.gl/0KzZRg" rel="external" class="ui-btn ui-btn-inline ui-corner-all">Continue 前往</a>
+                <br><a href="http://goo.gl/0KzZRg" rel="external" class="ui-btn ui-btn-inline ui-corner-all">前往 Continue</a>
             </div>
 
             <?php include "../stubs/footer.php";?>
