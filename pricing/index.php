@@ -15,7 +15,7 @@
             <?php include "../stubs/header.php";?>
 
             <div class="content-container">
-                <div class="page-title">Illustrative Cake Pricing</div>
+                <div class="page-title">預估價格 Illustrative Cake Pricing</div>
                 <form>
                     <div>
                         <div class="ui-field-contain">
