@@ -8,6 +8,21 @@
                     <br>
                 </div>
                 <div class="copyright">
-                    Copyright &copy; 2014 Yeh Cake Co., Ltd. All rights reserved.
+                    <a href="#siteMap" data-rel="popup" data-transition="pop">網站地圖 Site Map</a>
+                    <div data-role="popup" id="siteMap" data-theme="a">
+                        <ul data-role="listview" data-inset="true" style="min-width:210px;">
+                            <li><a href="/availability/">詢價 Order</a>
+                            </li>
+                            <li><a href="http://catalog.yehcake.com/" rel="external">目錄 Gallery</a>
+                            </li>
+                            <li><a href="/pricing/">定價 Pricing</a>
+                            </li>
+                            <li><a href="/faq/">常見問題 FAQ</a>
+                            </li>
+                            <li><a href="/">首頁 Home</a>
+                            </li>
+                        </ul>
+                    </div>
+                    | Copyright &copy; 2014 Yeh Cake Co., Ltd. All rights reserved.
                 </div>
             </div>
