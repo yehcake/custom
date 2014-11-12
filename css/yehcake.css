@@ -119,7 +119,7 @@
         .yc-footer a {
             font-weight: normal;
         }
-        .yc-icon-no-background a:after {
+        .yc-icon-no-background>h1>a::after {
             background-color: #EC2590;
         }        
         [lang="en-us"] {
