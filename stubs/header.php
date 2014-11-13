@@ -1,5 +1,5 @@
             <div data-role="collapsible" data-inset="false" data-iconpos="right" class="yc-icon-no-background" data-collapsed-icon="bars" data-expanded-icon="delete" data-theme="a" data-content-theme="a">
-                <h1><img src="/images/logo.png" alt="[ Logo ]"></h1>
+                <h1 id="headerLogo"><img src="/images/logo.png" alt="[ Logo ]"></h1>
                 <ul data-role="listview">
                     <li><a href="/availability/">詢價 Order</a>
                     </li>
@@ -12,4 +12,7 @@
                     <li><a href="/">首頁 Home</a>
                     </li>                    
                 </ul>
+            </div>
+            <div data-role="popup" id="siteMapTip" data-arrow="t" data-overlay-theme="b">
+                <p>網站地圖 Site Map</p>
             </div>

@@ -10,3 +10,12 @@
     <script src="//code.jquery.com/mobile/1.4.4/jquery.mobile-1.4.4.min.js"></script>
     <link rel="stylesheet" href="/css/yehcake.css" />
     <script src="/js/pricing.js"></script>
+    <script>
+        $(document).on("pagecontainershow",function(event){
+            var xLoc = $( window ).width();
+            var yLoc = 70;
+             $("#siteMapTip").popup("open", {x: xLoc, y: yLoc});
+            //event.preventDefault();
+        })
+    </script>
+    
