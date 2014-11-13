@@ -21,7 +21,7 @@
                         <h3>如何確認訂單？ How do I book an order?</h3>
                         <p>
                             我們在接到<a href="/availability/">訂單</a>的72小時之內會與您確認，如果您的訂單金額為NT3,000元以上，在確認（正式下單）前我們會請您先付訂金。
-                            We will confirm your <a href="/availability/">order</a> within 72-hours of receipt. If your order is NT3,000 or more, we request a deposit before confirming (booking) your order.
+                            We will respond to your <a href="/availability/">inquiry</a> within 72-hours of receipt. If your order is NT3,000 or more, we request a deposit before booking your order.
                         </p>
                     </div>
                     <div data-role="collapsible">
