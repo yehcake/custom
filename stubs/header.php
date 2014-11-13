@@ -13,6 +13,6 @@
                     </li>                    
                 </ul>
             </div>
-            <div data-role="popup" id="siteMapTip" data-arrow="t" data-overlay-theme="b">
+            <div data-role="popup" id="siteMapTip" data-arrow="t">
                 <p>網站地圖 Site Map</p>
             </div>
