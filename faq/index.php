@@ -18,7 +18,7 @@
                 <div class="page-title">常見問題 FAQ</div>
                 <div data-role="collapsibleset" data-theme="a" data-content-theme="a">
                     <div data-role="collapsible" data-collapsed="false">
-                        <h3>訂單流程是什麼？ What is the order process?</h3>
+                        <h3>訂單流程是什麼？ What is the ordering process?</h3>
                         <p>
                             <img src="../images/orderProcess.png" border="0" width="168" height="484" orgWidth="168" orgHeight="484" usemap="#orderProcessMap" alt="[ 訂單流程 Order Process ]" />
                             <map name="orderProcessMap">
