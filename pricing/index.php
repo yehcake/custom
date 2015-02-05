@@ -23,11 +23,11 @@
                             <input type="range" name="size" id="size" data-highlight="true" min="10" max="100" value="20" class="slider">
                         </div>
                         <div class="ui-field-contain">
-                            <label for="difficulty">Difficulty:</label>
+                            <label for="difficulty"><a href="http://www.yehcake.com/t" target="_blank">Difficulty:</a></label>
                             <input type="range" name="difficulty" id="difficulty" data-highlight="true" min="1" max="10" value="5" class="slider">
                         </div>
                         <div class="ui-field-contain">
-                            <label for="toppers">Toppers:</label>
+                            <label for="toppers"><a href="http://www.yehcake.com/t" target="_blank">Toppers:<a/></label>
                             <input type="range" name="toppers" id="toppers" data-highlight="true" min="0" max="8" value="0" class="slider">
                         </div>
                     </div>
@@ -44,17 +44,17 @@
                         </div>
                     </div>
                     <div class="highlight-grey">
-                        ※ Shaped cakes start at NT$6,000.
+                        ※ Shaped cakes start at NT$6,000.  Learn about <a href="http://www.yehcake.com/t" target="_blank">cake types</a>.
                     </div>
                 </div>
-                <div class="ui-grid-a ui-responsive">
+                <!--div class="ui-grid-a ui-responsive">
                     <div class="ui-block-a">
                         <a data-pin-do="embedBoard" href="http://www.pinterest.com/yehcake/difficulty-1-4/" data-pin-scale-width="60" data-pin-scale-height="120" data-pin-board-width="280">Example of Less Difficult Cakes</a>
                     </div>
                     <div class="ui-block-b">
                         <a data-pin-do="embedBoard" href="http://www.pinterest.com/yehcake/difficulty-5%2B/" data-pin-scale-width="60" data-pin-scale-height="120" data-pin-board-width="280">Example of More Difficult Cakes</a>
                     </div>
-                </div>
+                </div-->
                 <!-- /grid-a -->
             </div>
 
