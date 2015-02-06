@@ -19,7 +19,7 @@
                 <form>
                     <div>
                         <div class="ui-field-contain">
-                            <label for="size">Size (Servings):</label>
+                            <label for="size"><a href="http://www.yehcake.com/s" target="_blank">Size (Servings)</a>:</label>
                             <input type="range" name="size" id="size" data-highlight="true" min="10" max="100" value="20" class="slider">
                         </div>
                         <div class="ui-field-contain">
