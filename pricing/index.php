@@ -33,7 +33,8 @@
                     </div>
                 </form>
                 <div class="pricing-estimate">
-                    While not an <a href="../availability">official quotation</a>, such a cake is estimated to cost
+                    While not an
+                    <a href="../availability">official quotation</a>, such a cake is estimated to cost
                     <div class="price-range">
                         <span id="range">NT$3,000 ~ NT$5,000</span>
                         <a href="#popupInfo" data-rel="popup" data-transition="pop" class="my-tooltip-btn ui-btn ui-alt-icon ui-nodisc-icon ui-btn-inline ui-icon-info ui-btn-icon-notext" title="Learn More">Learn More</a>
