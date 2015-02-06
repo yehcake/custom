@@ -27,7 +27,7 @@
                             <input type="range" name="difficulty" id="difficulty" data-highlight="true" min="1" max="10" value="5" class="slider">
                         </div>
                         <div class="ui-field-contain">
-                            <label for="toppers"><a href="http://www.yehcake.com/t" target="_blank">Toppers:<a/></label>
+                            <label for="toppers"><a href="http://www.yehcake.com/t" target="_blank">Toppers:</a></label>
                             <input type="range" name="toppers" id="toppers" data-highlight="true" min="0" max="8" value="0" class="slider">
                         </div>
                     </div>
